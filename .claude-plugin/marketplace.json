@@ -1,0 +1,14 @@
+{
+  "name": "mcp-server-guide",
+  "owner": {
+    "name": "Anima",
+    "email": "support@animaapp.com"
+  },
+  "plugins": [
+    {
+      "name": "anima",
+      "source": "./",
+      "description": "Build, host, publish, and edit web apps on Agent Grid — from a prompt, a website, a Figma design, or your own code."
+    }
+  ]
+}

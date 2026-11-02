@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "anima": {
+      "type": "http",
+      "url": "https://api.agentgrid.io/v1/mcp"
+    }
+  }
+}
